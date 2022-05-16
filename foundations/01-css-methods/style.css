@@ -1,1 +1,6 @@
 /* CSS.Style */
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+}
