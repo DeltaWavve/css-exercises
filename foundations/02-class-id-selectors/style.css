@@ -1,0 +1,17 @@
+/*style.css*/
+
+.odd-number {
+    background-color: salmon;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth {
+    color: limegreen;
+    font-size: 24px;
+    font-weight: bold;
+}
